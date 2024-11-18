@@ -8,7 +8,7 @@ import utils
 
 config.ENABLE_SIMULATION = True
 
-real = True
+real = False
 conn = None
 
 if not real:
